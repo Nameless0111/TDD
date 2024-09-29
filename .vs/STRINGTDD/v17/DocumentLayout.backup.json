@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0448\u0430\\source\\repos\\STRINGTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C853FD2-C79F-4E45-9EB2-B3B470D6BE4A}|STRINDTDD.Tests\\STRINDTDD.Tests.csproj|c:\\users\\\u043F\u0430\u0448\u0430\\source\\repos\\stringtdd\\strindtdd.tests\\stringtddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C853FD2-C79F-4E45-9EB2-B3B470D6BE4A}|STRINDTDD.Tests\\STRINDTDD.Tests.csproj|solutionrelative:strindtdd.tests\\stringtddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC61AD24-B5EF-4B2B-9AC1-EA3EF98277D5}|STRINGTDD\\STRINGTDD.csproj|c:\\users\\\u043F\u0430\u0448\u0430\\source\\repos\\stringtdd\\stringtdd\\stringtdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC61AD24-B5EF-4B2B-9AC1-EA3EF98277D5}|STRINGTDD\\STRINGTDD.csproj|solutionrelative:stringtdd\\stringtdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "STRINGTDDTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\source\\repos\\STRINGTDD\\STRINDTDD.Tests\\STRINGTDDTests.cs",
+              "RelativeDocumentMoniker": "STRINDTDD.Tests\\STRINGTDDTests.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\source\\repos\\STRINGTDD\\STRINDTDD.Tests\\STRINGTDDTests.cs",
+              "RelativeToolTip": "STRINDTDD.Tests\\STRINGTDDTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:11:27.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STRINGTDD.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\source\\repos\\STRINGTDD\\STRINGTDD\\STRINGTDD.cs",
+              "RelativeDocumentMoniker": "STRINGTDD\\STRINGTDD.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\source\\repos\\STRINGTDD\\STRINGTDD\\STRINGTDD.cs",
+              "RelativeToolTip": "STRINGTDD\\STRINGTDD.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:03:22.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

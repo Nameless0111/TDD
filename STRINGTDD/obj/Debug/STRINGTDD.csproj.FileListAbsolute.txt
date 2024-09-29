@@ -1,0 +1,6 @@
+C:\Users\Паша\source\repos\STRINGTDD\STRINGTDD\bin\Debug\STRINGTDD.dll
+C:\Users\Паша\source\repos\STRINGTDD\STRINGTDD\bin\Debug\STRINGTDD.pdb
+C:\Users\Паша\source\repos\STRINGTDD\STRINGTDD\obj\Debug\STRINGTDD.csproj.AssemblyReference.cache
+C:\Users\Паша\source\repos\STRINGTDD\STRINGTDD\obj\Debug\STRINGTDD.csproj.CoreCompileInputs.cache
+C:\Users\Паша\source\repos\STRINGTDD\STRINGTDD\obj\Debug\STRINGTDD.dll
+C:\Users\Паша\source\repos\STRINGTDD\STRINGTDD\obj\Debug\STRINGTDD.pdb
